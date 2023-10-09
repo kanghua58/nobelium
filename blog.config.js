@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'KAY QIU',
+  title: 'KANGURU',
   author: 'Kay Qiu',
   email: 'kanghua58@gmail.com',
   link: '',
