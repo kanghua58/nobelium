@@ -82,7 +82,7 @@ body::-webkit-scrollbar-thumb {
 
 @media (prefers-color-scheme: dark) {
   .sticky-nav {
-    background-color: black;
+    background-color: #18181b;
   }
 }
 
