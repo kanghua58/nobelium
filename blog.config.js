@@ -1,15 +1,15 @@
 const BLOG = {
-  title: 'KANGURU',
-  author: 'Kay Qiu',
+  title: 'KAY QIU',
+  author: 'Kay',
   email: 'kanghua58@gmail.com',
   link: '',
-  description: 'Multi-Lingual Learning Engineer.',
+  description: 'Make it easy.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'US/Eastern', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#fffff', // use hex value, don't forget '#' e.g #fffefc
-  darkBackground: '#18181B', // use hex value, don't forget '#'
+  darkBackground: '#2B2B2B', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
   since: 2023, // If leave this empty, current year will be used.
   postsPerPage: 7,
