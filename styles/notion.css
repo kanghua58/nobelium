@@ -1,7 +1,8 @@
 /* NOTION CSS OVERRIDE */
 
 :root {
-  --no-leading: 2rem;
+  /* --no-leading: 2rem; */
+  --no-leading: 1.5rem;
 
   /* Notion colors */
 
